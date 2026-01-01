@@ -1,10 +1,9 @@
 name = "antimonia"
-version = "1.0.0"
+version = "1.1.0"
 
 description = "antipatterns & escape hatches for programming Gleam, wrong :)"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "acandoo", repo = "antimonia" }
-target = "javascript"
 
 [dev-dependencies]
 gleeunit = ">= 1.0.0 and < 2.0.0"
