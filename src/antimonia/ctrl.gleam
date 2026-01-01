@@ -103,7 +103,7 @@ pub type LoopInterrupt {
 /// Mutate `i`:
 /// 
 /// ```gleam
-/// import antigone/mutable
+/// import antimonia/mutable
 /// 
 /// {
 ///   use i <- for(
@@ -182,7 +182,7 @@ pub fn do_while(
 /// ## Example
 /// 
 /// ```gleam
-/// import antigone/mutable
+/// import antimonia/mutable
 /// 
 /// let #(password_attempt, set_password_attempt) = mutable.tuple_from("")
 /// do(fn() {

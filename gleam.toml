@@ -1,9 +1,9 @@
-name = "antigone"
+name = "antimonia"
 version = "1.0.0"
 
 description = "antipatterns & escape hatches for programming Gleam, wrong :)"
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "acandoo", repo = "antigone" }
+repository = { type = "github", user = "acandoo", repo = "antimonia" }
 target = "javascript"
 
 [dev-dependencies]

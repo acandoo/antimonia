@@ -1,5 +1,5 @@
-import antigone/ctrl
-import antigone/mutable
+import antimonia/ctrl
+import antimonia/mutable
 
 pub fn repeat_test() {
   let #(counter, set_counter) = mutable.tuple_from(0)

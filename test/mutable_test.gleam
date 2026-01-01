@@ -1,4 +1,4 @@
-import antigone/mutable
+import antimonia/mutable
 
 pub fn mutable_test() {
   let initial = 0
