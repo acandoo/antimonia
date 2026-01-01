@@ -1,5 +1,5 @@
 name = "antigone"
-version = "0.1.0"
+version = "1.0.0"
 
 description = "antipatterns & escape hatches for programming Gleam, wrong :)"
 licences = ["Apache-2.0"]
